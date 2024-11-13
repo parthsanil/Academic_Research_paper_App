@@ -28,7 +28,7 @@ An academic research paper assistant developed using Streamlit and various NLP t
       ```
 4. Run the application:
     ```bash
-    streamlit run main.py
+    streamlit run Academic_Research_Papaer_app.py
     ```
 
 ## Dependencies
