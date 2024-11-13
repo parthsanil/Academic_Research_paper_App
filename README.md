@@ -20,12 +20,8 @@ An academic research paper assistant developed using Streamlit and various NLP t
     ```bash
     pip install -r requirements.txt
     ```
-3. Set up your environment:
-    - Create a `.env` file to store the API key for Google Gemini.
-    - Example `.env` file:
-      ```
-      GENIUS_API_KEY=<Your-API-Key>
-      ```
+3. Modify ApI Key in Code with personal Api key
+      
 4. Run the application:
     ```bash
     streamlit run Academic_Research_Papaer_app.py
