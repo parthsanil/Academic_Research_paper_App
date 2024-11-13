@@ -27,7 +27,7 @@ st.set_page_config(
 )
 
 # Configure API key for Gemini
-GENIUS_API_KEY = os.getenv('GENIUS_API_KEY', 'AIzaSyA-Qj4rxmI8mS6JbGwBpQayinnlAsS4iQA')  # Replace with your actual API key
+GENIUS_API_KEY = os.getenv('GENIUS_API_KEY', 'Your_API_Key')  # Replace with your actual API key
 genai.configure(api_key=GENIUS_API_KEY)
 
 # Create GenerativeModel instance
